@@ -1,6 +1,6 @@
 ---
-title: "Getting started"
-description: "Hit the ground running."
+title: "Benefit from n8n forms"
+description: "When google forms aren’t enough."
 date: "Mar 22 2024"
 ---
 
@@ -72,5 +72,5 @@ export const SOCIALS: Socials = [
 | NAME | Yes | Displayed in contact section as a link. |
 | HREF | Yes | External url to social media profile. |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3Njc1MDk3XX0=
+eyJoaXN0b3J5IjpbMTIwNjI3OTc1XX0=
 -->
