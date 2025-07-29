@@ -71,3 +71,6 @@ export const SOCIALS: Socials = [
 | :---- | :-- | :-----------|
 | NAME | Yes | Displayed in contact section as a link. |
 | HREF | Yes | External url to social media profile. |
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTI3Njc1MDk3XX0=
+-->
