@@ -1,7 +1,7 @@
 ---
 title: "Benefit from n8n forms"
-description: "When google forms aren’t enough."
-date: "Mar 22 2024"
+description: "When google forms aren’t enough. Find out if n8n is what you need or if it’s a bit much."
+date: "Jul 28, 2025"
 ---
 
 The basic configuration of Nano is pretty simple.
@@ -72,5 +72,5 @@ export const SOCIALS: Socials = [
 | NAME | Yes | Displayed in contact section as a link. |
 | HREF | Yes | External url to social media profile. |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNjI3OTc1XX0=
+eyJoaXN0b3J5IjpbLTExMzUxNTI1MjBdfQ==
 -->
